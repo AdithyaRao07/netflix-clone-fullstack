@@ -178,26 +178,30 @@ Authorization: Bearer <token>
 📸 Screenshots
 
 
-🔐 Login Page  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1ab07b30-9d9a-468a-80a9-99126a668406" /> <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b73248f3-8e0f-4b05-9ae6-3db611f8bb9c" />
+🔐 Login Page  <img width="1920" height="1020" alt="LoginPage" src="https://github.com/user-attachments/assets/53f0c045-71d6-4e24-ada2-ff774d799577" />
 
 
 
-📝 Register Page <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6793841b-c9b9-4a27-9263-eec69ee3107a" /> <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d54d439a-1240-4648-955b-9d248b97c6ed" />
+📝 Register Page <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/09a495b4-b712-425b-b371-8d7bbda22e83" />
 
 
 
-🏠 Home Page <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/232496db-e70c-4326-804b-a97c64eb1d7a" />
+
+🏠 Home Page <img width="1920" height="1020" alt="HomePage" src="https://github.com/user-attachments/assets/90c62f57-1553-48b3-b5e4-b3202838ddb1" />
 
 
-🎬 Movie Details Page <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d852526a-a4e7-491c-bd16-b6122f8c9acb" />
+
+🎬 Movie Details <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4f5068ba-2b52-4ec4-9257-1ce0d34c8ebc" />
 
 
-⭐ My Watchlist <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0569ed95-9b04-405c-8d03-b7be643305fe" />
+⭐ My Watchlist <img width="1920" height="1020" alt="Watchlist" src="https://github.com/user-attachments/assets/3fe8cf1f-6c37-4feb-bda2-c3d751326b5c" />
 
 
-🎥 Backend Running (Spring Boot Console) <img width="1817" height="615" alt="image" src="https://github.com/user-attachments/assets/8111e9e9-c560-4570-9261-cce2300f7893" />
 
-  Frontend Running <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ca9446d2-bea0-49d7-9b7f-73bd7d373da5" />
+🎥 Backend Running (Spring Boot Console) <img width="1817" height="615" alt="BackendConsole" src="https://github.com/user-attachments/assets/a794d5cf-8607-4460-b20d-fabb3e475886" />
+
+
+  Frontend Running <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ffd42dca-c505-47dc-8347-bcd6246e7cb4" />
 
 👨‍🎓 Author
 
